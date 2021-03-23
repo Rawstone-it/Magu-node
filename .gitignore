@@ -17,12 +17,9 @@ node_modules
 public
 locales/zz-ZZ
 nodes/core/locales/zz-ZZ
-packages/node_modules
-packages/node_modules/@node-red/editor-client/public
-!packages/node_modules/@node-red/editor-client/public/red/*.css
+!packages/node_modules
 !test/**/node_modules
 docs
 !packages/node_modules/**/docs
 .vscode
 .nyc_output
-.packages-lock.json
