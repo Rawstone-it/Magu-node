@@ -14,10 +14,10 @@ credentials.json
 flows*.json
 nodes/node-red-nodes/
 node_modules
-public
+#public
 locales/zz-ZZ
 nodes/core/locales/zz-ZZ
-!packages/node_modules
+#packages/node_modules
 #packages/node_modules/@node-red/editor-client/public
 !test/**/node_modules
 docs
